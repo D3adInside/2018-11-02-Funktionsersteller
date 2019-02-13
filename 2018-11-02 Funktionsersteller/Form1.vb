@@ -10,7 +10,7 @@
         groeste = FctMaximum(erste, zweite)
 
         txtGroeste.Text = groeste
-
+        '
     End Sub
 
     Function FctMaximum(parE, parZ)
